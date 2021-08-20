@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(39, 39, 39);
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.5em;
+    color: white;
+    margin: auto 1rem;
+}
+
+p{
+    color: green;
+}
+
